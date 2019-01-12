@@ -7,6 +7,9 @@
     "email": "mail@lukahartwig.de",
     "url": "https://lukahartwig.de"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Personal prettier configuration",
   "repository": "github:lukahartwig/toolbox",
   "main": "index.js",
