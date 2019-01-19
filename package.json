@@ -1,7 +1,12 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
   "devDependencies": {
-    "lerna": "^3.4.3"
+    "@lukahartwig/prettier-preset": "^1.0.0",
+    "lerna": "^3.4.3",
+    "prettier": "^1.15.3"
   }
 }
