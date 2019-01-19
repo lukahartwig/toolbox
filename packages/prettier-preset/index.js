@@ -7,6 +7,6 @@ module.exports = {
   semi: true,
   singleQuote: true,
   tabWidth: 2,
-  trailingComma: true,
+  trailingComma: 'all',
   useTabs: false,
 };

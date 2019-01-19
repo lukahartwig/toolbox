@@ -12,6 +12,9 @@
   },
   "description": "Personal prettier configuration",
   "repository": "github:lukahartwig/toolbox",
+  "engines": {
+    "node": ">=8"
+  },
   "main": "index.js",
   "files": [
     "index.js"
