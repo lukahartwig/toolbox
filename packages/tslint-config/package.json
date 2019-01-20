@@ -1,0 +1,26 @@
+{
+  "name": "@lukahartwig/tslint-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Luka Hartwig",
+    "email": "mail@lukahartwig.de",
+    "url": "https://lukahartwig.de"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Personal tslint configuration",
+  "repository": "github:lukahartwig/toolbox",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "tslint": ">=5",
+    "typescript": ">=3"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.1"
+  }
+}

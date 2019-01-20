@@ -7,6 +7,8 @@
   "devDependencies": {
     "@lukahartwig/prettier-preset": "^1.0.0",
     "lerna": "^3.4.3",
-    "prettier": "^1.15.3"
+    "prettier": "^1.15.3",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
   }
 }
