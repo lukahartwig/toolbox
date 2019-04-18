@@ -4,9 +4,15 @@
   "workspaces": [
     "packages/**"
   ],
+  "scripts": {
+    "lint": "eslint --ext js,jsx,ts,tsx --fix ."
+  },
   "devDependencies": {
     "@lukahartwig/prettier-preset": "^1.0.0",
+    "eslint": "^5.16.0",
     "lerna": "^3.4.3",
-    "prettier": "^1.15.3"
+    "prettier": "^1.15.3",
+    "react": "^16.8.6",
+    "typescript": "^3.4.3"
   }
 }
