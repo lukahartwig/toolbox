@@ -6,4 +6,5 @@ configurations.
 
 ## Available configurations
 
+- [ESLint Typescript](https://github.com/lukahartwig/toolbox/tree/master/packages/eslint-config-typescript)
 - [Prettier](https://github.com/lukahartwig/toolbox/tree/master/packages/prettier-preset)
