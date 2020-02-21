@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/**"
   ],
+  "prettier": "@lukahartwig/prettier-preset",
   "devDependencies": {
     "@lukahartwig/prettier-preset": "^1.0.0",
     "lerna": "^3.4.3",
